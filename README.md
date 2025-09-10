@@ -6,12 +6,12 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves creating innovative solutions and contributing to meaningful projects. I enjoy working with modern technologies and am always eager to learn and grow in the ever-evolving world of software development.
+I'm a passionate developer who loves creating innovative solutions and contributing to meaningful projects. I enjoy working with modern technologies and am always eager to learn and grow in the ever-evolving tech landscape.
 
-- 🔭 I'm currently working on exciting projects including backend and mobile development
+- 🔭 I'm currently working on exciting projects including Metro management systems and full-stack applications
 - 🌱 I'm constantly learning new technologies and improving my skills
 - 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about web development, mobile apps, and backend systems
+- 💬 Ask me about web development, mobile apps, and microservices architecture
 - ⚡ Fun fact: I love solving complex problems with elegant code solutions
 
 ## 🛠️ Technologies & Tools
@@ -23,24 +23,12 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-
-### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -57,15 +45,19 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 
 ## 🏆 Featured Projects
 
-### 🐱 Logi-Neko Backend
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Logi-Neko&repo=back-end&theme=radical)](https://github.com/Logi-Neko/back-end)
+### 🚇 Metro Backend System
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hcmurs&repo=metro-be&theme=radical)](https://github.com/hcmurs/metro-be)
 
-**Tech Stack:** Backend Development | API Design | Database Management
+**Tech Stack:** Spring Boot | Microservices | PostgreSQL | Redis | Docker
 
-### 📱 Logi-Neko Mobile
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Logi-Neko&repo=mobile&theme=radical)](https://github.com/Logi-Neko/mobile)
+A comprehensive microservices backend system for metro management featuring service discovery, API gateway, authentication, and multiple specialized services for stations, tickets, and orders.
 
-**Tech Stack:** Mobile Development | Cross-Platform | UI/UX
+### 🌐 Metro Frontend Application
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hcmurs&repo=metro-fe&theme=radical)](https://github.com/hcmurs/metro-fe)
+
+**Tech Stack:** React | TypeScript | Modern UI/UX | API Integration
+
+Modern web application for metro system management with interactive maps, real-time schedules, and comprehensive user interface for metro operations.
 
 ### 🎯 MSS Projects
 Contributing to various MSS (Management Support System) projects focusing on frontend and backend development.
@@ -89,11 +81,11 @@ Contributing to various MSS (Management Support System) projects focusing on fro
 
 ## 💡 Current Focus
 
-- 🔥 Building robust backend systems
-- 📱 Developing cross-platform mobile applications
-- 🚀 Exploring cloud technologies and DevOps practices
+- 🔥 Building robust microservices architectures
+- 🚇 Contributing to Metro management systems
 - 🎨 Creating intuitive user interfaces
 - 🤖 Learning about AI/ML integration in web applications
+- ☁️ Exploring cloud technologies and DevOps practices
 
 ---
 
@@ -103,4 +95,4 @@ Contributing to various MSS (Management Support System) projects focusing on fro
   ### Thanks for visiting! 😊
   
   *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-</div>****
+</div>
