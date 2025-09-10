@@ -4,9 +4,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Always+learning+new+technologies" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+## 🚀 About Me  
 
-I'm a passionate developer who loves creating innovative solutions and contributing to meaningful projects. I enjoy working with modern technologies and am always eager to learn and grow in the ever-evolving tech landscape.
+I'm a passionate **Backend Developer** with experience in building scalable and secure applications.  
+I enjoy working with **Java (Spring Boot, Keycloak)** for backend services, and also explore **React** and **Python** for full-stack and data solutions.  
+
+✨ Always eager to learn new technologies, embrace challenges, and contribute to meaningful open-source and real-world projects.  
+🌱 Currently exploring **microservices architecture, authentication/authorization systems, and cloud deployment**.  
 
 ## 🛠️ Technologies & Tools
 
@@ -52,22 +56,12 @@ Modern web application for metro system management with interactive maps, schedu
 
 </div>
 
-## 💡 Current Focus
-
-- 🔥 Building robust microservices architectures
-- 🚇 Contributing to Metro management systems
-- 🎨 Creating intuitive user interfaces
-- 🤖 Learning about AI/ML integration in web applications
-- ☁️ Exploring cloud technologies and DevOps practices
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MinhAlfred&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   
   ### Thanks for visiting! 😊
-  
-  *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
 </div>
 
 
