@@ -8,12 +8,6 @@
 
 I'm a passionate developer who loves creating innovative solutions and contributing to meaningful projects. I enjoy working with modern technologies and am always eager to learn and grow in the ever-evolving tech landscape.
 
-- 🔭 I'm currently working on exciting projects including Metro management systems and full-stack applications
-- 🌱 I'm constantly learning new technologies and improving my skills
-- 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about web development, and microservices architecture
-- ⚡ Fun fact: I love solving complex problems with elegant code solutions
-
 ## 🛠️ Technologies & Tools
 
 <div align="center">
@@ -75,6 +69,7 @@ Modern web application for metro system management with interactive maps, schedu
   
   *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 </div>
+
 
 
 
