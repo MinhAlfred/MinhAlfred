@@ -11,7 +11,7 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 - 🔭 I'm currently working on exciting projects including Metro management systems and full-stack applications
 - 🌱 I'm constantly learning new technologies and improving my skills
 - 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about web development, mobile apps, and microservices architecture
+- 💬 Ask me about web development, and microservices architecture
 - ⚡ Fun fact: I love solving complex problems with elegant code solutions
 
 ## 🛠️ Technologies & Tools
@@ -23,7 +23,15 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+
+### Framework
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)  
+
+### 🔐 Authentication & Security  
+![Keycloak](https://img.shields.io/badge/-Keycloak-2C2255?style=flat-square&logo=keycloak&logoColor=white)  
+
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -50,14 +58,14 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 
 **Tech Stack:** Spring Boot | Microservices | PostgreSQL | Redis | Docker
 
-A comprehensive microservices backend system for metro management featuring service discovery, API gateway, authentication, and multiple specialized services for stations, tickets, and orders.
+A comprehensive microservices backend system for metro management featuring service discovery, API gateway, and multiple specialized services for stations, tickets, and orders.
 
 ### 🌐 Metro Frontend Application
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hcmurs&repo=metro-fe&theme=radical)](https://github.com/hcmurs/metro-fe)
 
 **Tech Stack:** React | TypeScript | Modern UI/UX | API Integration
 
-Modern web application for metro system management with interactive maps, real-time schedules, and comprehensive user interface for metro operations.
+Modern web application for metro system management with interactive maps, schedules, and comprehensive user interface for metro operations.
 
 ### 🎯 MSS Projects
 Contributing to various MSS (Management Support System) projects focusing on frontend and backend development.
@@ -74,7 +82,7 @@ Contributing to various MSS (Management Support System) projects focusing on fro
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/minhalfred)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MinhAlfred)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minhvo.20040329@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
 
 </div>
@@ -96,3 +104,4 @@ Contributing to various MSS (Management Support System) projects focusing on fro
   
   *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 </div>
+
