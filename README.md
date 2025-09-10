@@ -23,16 +23,11 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-### Framework
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)  
-### 🔐 Authentication & Security  
-![Keycloak](https://img.shields.io/badge/-Keycloak-2C2255?style=flat-square&logo=keycloak&logoColor=white)  
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Keycloak](https://img.shields.io/badge/-Keycloak-2C2255?style=flat-square&logo=keycloak&logoColor=white)  
 
 </div>
 
@@ -80,6 +75,7 @@ Modern web application for metro system management with interactive maps, schedu
   
   *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 </div>
+
 
 
 
