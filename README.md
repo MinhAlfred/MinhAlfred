@@ -52,15 +52,6 @@ A comprehensive microservices backend system for metro management featuring serv
 
 Modern web application for metro system management with interactive maps, schedules, and comprehensive user interface for metro operations.
 
-### 🎯 MSS Projects
-Contributing to various MSS (Management Support System) projects focusing on frontend and backend development.
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinhAlfred&theme=redical&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
 ## 🤝 Connect with Me
 
 <div align="center">
@@ -89,5 +80,6 @@ Contributing to various MSS (Management Support System) projects focusing on fro
   
   *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 </div>
+
 
 
