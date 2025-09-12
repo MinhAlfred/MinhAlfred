@@ -7,7 +7,7 @@
 ## 🚀 About Me  
 
 I'm a passionate **Backend Developer** with experience in building scalable and secure applications.  
-I enjoy working with **Java (Spring Boot, Keycloak)** for backend services, and also explore **React** and **Python** for full-stack and data solutions.  
+I enjoy working with **Java (Spring Boot)** for backend services, and also explore **React** and **Python** for full-stack and data solutions.  
 
 ✨ Always eager to learn new technologies, embrace challenges, and contribute to meaningful open-source and real-world projects.  
 🌱 Currently exploring **microservices architecture, authentication/authorization systems, and cloud deployment**.  
@@ -45,6 +45,7 @@ I enjoy working with **Java (Spring Boot, Keycloak)** for backend services, and 
   ### Thanks for visiting! 😊
 
 </div>
+
 
 
 
