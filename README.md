@@ -28,23 +28,6 @@ I enjoy working with **Java (Spring Boot, Keycloak)** for backend services, and 
 ![Keycloak](https://img.shields.io/badge/-Keycloak-2C2255?style=flat-square&logo=keycloak&logoColor=white)  
 
 </div>
-
-## 🏆 Featured Projects
-
-### 🚇 Metro Backend System
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hcmurs&repo=metro-be&theme=radical)](https://github.com/hcmurs/metro-be)
-
-**Tech Stack:** Spring Boot | Microservices | PostgreSQL | Redis | Docker
-
-A comprehensive microservices backend system for metro management featuring service discovery, API gateway, and multiple specialized services for stations, tickets, and orders.
-
-### 🌐 Metro Frontend Application
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hcmurs&repo=metro-fe&theme=radical)](https://github.com/hcmurs/metro-fe)
-
-**Tech Stack:** React | TypeScript | Modern UI/UX | API Integration
-
-Modern web application for metro system management with interactive maps, schedules, and comprehensive user interface for metro operations.
-
 ## 🤝 Connect with Me
 
 <div align="center">
@@ -63,6 +46,7 @@ Modern web application for metro system management with interactive maps, schedu
   ### Thanks for visiting! 😊
 
 </div>
+
 
 
 
