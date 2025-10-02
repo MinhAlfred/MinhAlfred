@@ -12,14 +12,6 @@ I enjoy working with **Java (Spring Boot)** for backend services, and also explo
 ✨ Always eager to learn new technologies, embrace challenges, and contribute to meaningful open-source and real-world projects.  
 🌱 Currently exploring **microservices architecture, authentication/authorization systems**.  
 
-## 🛠️ Technologies & Tools
-
-<div align="center">
-  
-## 📊 GitHub Stats
-
-<div align="center">
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhAlfred&layout=compact&theme=radical)
 
 </div>
@@ -42,6 +34,7 @@ I enjoy working with **Java (Spring Boot)** for backend services, and also explo
   ### Thanks for visiting! 😊
 
 </div>
+
 
 
 
