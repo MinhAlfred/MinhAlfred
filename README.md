@@ -10,10 +10,7 @@ I'm a passionate **Backend Developer** with experience in building scalable and 
 I enjoy working with **Java (Spring Boot)** for backend services, and also explore **React** and **Python** for full-stack and data solutions.  
 
 ✨ Always eager to learn new technologies, embrace challenges, and contribute to meaningful open-source and real-world projects.  
-🌱 Currently exploring **microservices architecture, authentication/authorization systems**.  
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhAlfred&layout=compact&theme=radical)
+🌱 Currently exploring **microservices architecture, Spring batch job**.  
 
 
 </div>
@@ -34,6 +31,7 @@ I enjoy working with **Java (Spring Boot)** for backend services, and also explo
   ### Thanks for visiting! 😊
 
 </div>
+
 
 
 
